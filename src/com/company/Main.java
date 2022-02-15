@@ -32,8 +32,8 @@ public class Main {
             }
             System.out.println();
         }
-        Animal[] reptile = {turtle};
-        Animal[] fish = {shark};
-        Animal[] bird = {eagle};
+        Animal[] reptile = {animals[0]};
+        Animal[] fish = {animals[1]};
+        Animal[] bird = {animals[2]};
     }
 }
